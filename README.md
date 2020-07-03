@@ -3,7 +3,7 @@ A flask based implementation for stock sentiment analysis.
 Uses randomforest with count vectorizer to get the sentiment.
 Results are given below.
 ## Data
-https://www.kaggle.com/aaron7sun/stocknews
+[Dataset](https://www.kaggle.com/aaron7sun/stocknews)
 Consists of 3 columns 
   > Date,
   > Label,
