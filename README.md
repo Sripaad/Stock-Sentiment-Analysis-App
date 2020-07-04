@@ -30,5 +30,6 @@ Further analysis can be found in StockSentimentAnalysis.ipynb
 ### Update
 (4/07/2020)
 Switched to nltk and [VADERsentiment](https://github.com/cjhutto/vaderSentiment) (Valence Aware Dictionary and sEntiment Reasoner).
+  This renders the mainFile useless but the data-analysis is available at *StockSentimentAnalysis.ipynb* 
 
 Credit goes to [krishnaik06](https://github.com/krishnaik06) who's livestream got me to do this. You can his work [here](https://github.com/krishnaik06/Stock-Sentiment-Analysis)
