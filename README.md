@@ -25,5 +25,10 @@ Further analysis can be found in StockSentimentAnalysis.ipynb
 ### TO-DO
 >1. Try out LSTM and other methods.
 >2. Deploy it.
- 
- Credit goes to [krishnaik06](https://github.com/krishnaik06) who's livestream got me to do this. You can his work [here](https://github.com/krishnaik06/Stock-Sentiment-Analysis)
+
+
+### Update
+(4/07/2020)
+Switched to nltk and [VADERsentiment](https://github.com/cjhutto/vaderSentiment) (Valence Aware Dictionary and sEntiment Reasoner).
+
+Credit goes to [krishnaik06](https://github.com/krishnaik06) who's livestream got me to do this. You can his work [here](https://github.com/krishnaik06/Stock-Sentiment-Analysis)
